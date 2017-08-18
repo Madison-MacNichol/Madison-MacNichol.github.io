@@ -9,11 +9,5 @@ This is the code for my website. It uses a boostrap template (template informati
 
 
 
-(GitBash Notes to Self)
-#### Deployment Instructions
-
-1) git add . 
-2) git commit -m "djafhdskjalfke"
-3) git push -v origin master
 
 
